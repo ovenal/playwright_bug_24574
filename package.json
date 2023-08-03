@@ -1,0 +1,21 @@
+{
+  "name": "playwright_bug_24574",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovenal/playwright_bug_24574.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovenal/playwright_bug_24574/issues"
+  },
+  "homepage": "https://github.com/ovenal/playwright_bug_24574#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
